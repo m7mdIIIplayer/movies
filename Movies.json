@@ -2,7 +2,7 @@
   {
     "title": "Fight club 1999",
     "description": "Fight Club, American drama film, released in 1999, that was directed by David Fincher and adapted from Chuck Palahniuk's 1996 novel of the same name. The film tells the story of an alienated office worker and a charismatic nihilist who start an underground club at which disaffected young men violently fight each other",
-    "image_url": "https://drive.usercontent.google.com/download?id=1dSZQWyBjO0CDt-UNe2oaGg-2mJr1pAZ8&export=download&authuser=0",
+    "image_url": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "video_url":"https://swishsrv.com/e/10bh6qolttun",
     "download_url": "",
     "cate": "Action"
@@ -30,5 +30,13 @@
     "video_url":  "https://playerwish.com/e/7ot6l75uzup0",
     "download_url": "",
     "cate": "Drama"
+  },
+    {
+    "title": "The Matrix 1999",
+    "description": "It is the first installment in the Matrix film series, starring Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, and Joe Pantoliano, and depicts a dystopian future in which humanity is unknowingly trapped inside the Matrix, a simulated reality that intelligent machines have created to distract humans",
+    "image_url": "https://www.rogerebert.com/wp-content/uploads/2024/03/The-Matrix.jpg",
+    "video_url":  "https://swishsrv.com/e/iougc0eqquyb",
+    "download_url": "",
+    "cate": "Action"
   }
 ]
