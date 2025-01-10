@@ -14,5 +14,13 @@
     "video_url":  "https://drive.google.com/file/d/1cCcbe9sUs94S5U8ooZT2X_lg47IpyK1y/preview",
     "download_url": "https://drive.google.com/file/d/1cCcbe9sUs94S5U8ooZT2X_lg47IpyK1y/view?usp=drive_link",
     "cate": "Action"
+  },
+  {
+    "title": "the Titanic",
+    "description": "watch nowm titanic film",
+    "image_url": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "video_url":  "https://playerwish.com/e/7ot6l75uzup0",
+    "download_url": "",
+    "cate": "Drama"
   }
 ]
