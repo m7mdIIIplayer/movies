@@ -1,42 +1,67 @@
 {
-  "cate": "Action",
   "series": [
     {
-      "image_url": "https://aflamix.com/images/2234.jpg",
+      "id": "1",
+      "category": "Action",
       "title": "Squid Game",
       "release_year": 2021,
-      "seasonNumbers": 2,
-      "rating": "8",
+      "rating": 8,
       "seasons": [
         {
-          "id": "squid-gameseason-1",
-          "title": "Squid Game S1",
+          "seasonId": "squid-game-season-1",
+          "seasonTitle": "Squid Game S1",
           "release_year": 2021,
-          "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال. وفي الداخل، تنتظرهم جائزة مغرية ذات مخاطر عالية مميتة: لعبة البقاء على قيد الحياة التي تبلغ قيمتها 45.6 مليار وون.",
-          "image_url": "https://aflamix.com/images/2234.jpg",
-          "rating": "8",
-          "ThisSeasonNumIs": "S1",
-          "EpisodesNumsInThisSeasonIs": 9,
+          "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال.",
           "episodes": [
             {
+              "episodeId": "squid-game-s1-e1",
               "episodeNumber": 1,
               "title": "Squid Game S1 E1",
-              "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال. وفي الداخل، تنتظرهم جائزة مغرية ذات مخاطر عالية مميتة: لعبة البقاء على قيد الحياة التي تبلغ قيمتها 45.6 مليار وون.",
+              "description": "في الحلقة الأولى، يقبل مئات اللاعبين دعوة غريبة للمشاركة في ألعاب الأطفال.",
               "duration": "59.42 m",
-              "image_url": "https://aflamix.com/images/2234.jpg",
-              "video_url": "https://swishsrv.com/e/cqwqhp061zns"
+              "video_url": "https://swishsrv.com/e/cqwqhp061zns",
+              "image_url": "https://aflamix.com/images/2234.jpg"
             },
             {
+              "episodeId": "squid-game-s1-e2",
               "episodeNumber": 2,
               "title": "Squid Game S1 E2",
-              "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال. وفي الداخل، تنتظرهم جائزة مغرية ذات مخاطر عالية مميتة: لعبة البقاء على قيد الحياة التي تبلغ قيمتها 45.6 مليار وون.",
-              "duration": "1 02 hr",
-              "image_url": "https://aflamix.com/images/2234.jpg",
-              "video_url": "https://swishsrv.com/e/b6lay8uqw9ur"
+              "description": "تستمر المغامرة مع المخاطر المتزايدة.",
+              "duration": "1 hr 2 min",
+              "video_url": "https://swishsrv.com/e/b6lay8uqw9ur",
+              "image_url": "https://aflamix.com/images/2234.jpg"
             }
           ]
         }
-      ]
+      ],
+      "image_url": "https://aflamix.com/images/2234.jpg"
+    },
+    {
+      "id": "2",
+      "category": "Action",
+      "title": "Another Action Series",
+      "release_year": 2022,
+      "rating": 7.5,
+      "seasons": [
+        {
+          "seasonId": "another-action-season-1",
+          "seasonTitle": "Another Action S1",
+          "release_year": 2022,
+          "description": "وصف الموسم الآخر.",
+          "episodes": [
+            {
+              "episodeId": "another-action-s1-e1",
+              "episodeNumber": 1,
+              "title": "Another Action S1 E1",
+              "description": "حلقة مثيرة مليئة بالأحداث.",
+              "duration": "50 m",
+              "video_url": "https://swishsrv.com/e/another-url",
+              "image_url": "https://aflamix.com/images/2234.jpg"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://aflamix.com/images/2234.jpg"
     }
   ]
 }
