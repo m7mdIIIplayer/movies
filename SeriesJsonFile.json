@@ -19,7 +19,7 @@
           "EpisodesNumsInThisSeasonIs": 9,
           "episodes": [
             {
-              "episodeId": "squid-game-s1-e1",  // يجب إضافة هذا الحقل
+              "episodeId": "squid-game-s1-e1",
               "episodeNumber": 1,
               "title": "Squid Game S1 E1",
               "description": "وصف الحلقة...",
