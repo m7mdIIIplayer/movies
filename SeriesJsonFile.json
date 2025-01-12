@@ -9,27 +9,29 @@
       "rating": "8",
       "seasons": [
         {
-          "seasonId": "squid-gameseason-1",
+          "id": "squid-gameseason-1",
           "title": "Squid Game S1",
           "release_year": 2021,
-          "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال. وفي الداخل، تنتظرهم جائزة مغرية ذات مخاطر عالية مميتة: لعبة البقاء على قيد الحياة التي تبلغ قيمتها 45.6 مليار وون.",
+          "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال...",
           "image_url": "https://aflamix.com/images/2234.jpg",
           "rating": "8",
           "ThisSeasonNumIs": "S1",
           "EpisodesNumsInThisSeasonIs": 9,
           "episodes": [
             {
+              "episodeId": "squid-game-s1-e1",  // يجب إضافة هذا الحقل
               "episodeNumber": 1,
               "title": "Squid Game S1 E1",
-              "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال. وفي الداخل، تنتظرهم جائزة مغرية ذات مخاطر عالية مميتة: لعبة البقاء على قيد الحياة التي تبلغ قيمتها 45.6 مليار وون.",
+              "description": "وصف الحلقة...",
               "duration": "59.42 m",
               "image_url": "https://aflamix.com/images/2234.jpg",
               "video_url": "https://swishsrv.com/e/cqwqhp061zns"
             },
             {
+              "episodeId": "squid-game-s1-e2",  // يجب إضافة هذا الحقل
               "episodeNumber": 2,
               "title": "Squid Game S1 E2",
-              "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال. وفي الداخل، تنتظرهم جائزة مغرية ذات مخاطر عالية مميتة: لعبة البقاء على قيد الحياة التي تبلغ قيمتها 45.6 مليار وون.",
+              "description": "وصف الحلقة...",
               "duration": "1 02 hr",
               "image_url": "https://aflamix.com/images/2234.jpg",
               "video_url": "https://swishsrv.com/e/b6lay8uqw9ur"
