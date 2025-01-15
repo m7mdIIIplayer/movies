@@ -37,14 +37,7 @@
                   "video_url": "https://swishsrv.com/e/b6lay8uqw9ur"
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "cate": "Action",
-      "series": [
+              "series": [
         {
           "image_url": "https://aflamix.com/images/2196.jpg",
           "title": "From",
@@ -79,6 +72,14 @@
                   "video_url": "https://swishsrv.com/e/hhpxar7ldw4z"
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cate": "Action",
+      
             }
           ]
         }
