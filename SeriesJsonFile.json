@@ -39,11 +39,46 @@
               ]
             }
           ]
+        },
+        {
+          "image_url": "https://aflamix.com/images/2196.jpg",
+          "title": "From",
+          "release_year": 2022,
+          "seasonNumbers": 3,
+          "rating": "7.8",
+          "seasons": [
+            {
+              "id": "From-1",
+              "title": "From S1",
+              "release_year": 2022,
+              "description": "إكتشف لغز مدينة في وسط الولايات المتحدة الأمريكية تسجن كل من يدخلها. وبينما يكافح السكان للحفاظ على شعورهم بالطبيعية والبحث عن مخرج، يتعين عليهم أيضًا البقاء على قيد الحياة في مواجهة تهديدات الغابة المحيطة",
+              "image_url": "https://aflamix.com/images/2196.jpg",
+              "rating": "7.8",
+              "ThisSeasonNumIs": "S1",
+              "EpisodesNumsInThisSeasonIs": 10,
+              "episodes": [
+                {
+                  "episodeId": "From-S1-E1",
+                  "title": "From S1 E1",
+                  "description": "إكتشف لغز مدينة في وسط الولايات المتحدة الأمريكية تسجن كل من يدخلها. وبينما يكافح السكان للحفاظ على شعورهم بالطبيعية والبحث عن مخرج، يتعين عليهم أيضًا البقاء على قيد الحياة في مواجهة تهديدات الغابة المحيطة",
+                  "duration": "50.14 m",
+                  "image_url": "https://aflamix.com/images/2196.jpg",
+                  "video_url": "https://swishsrv.com/e/t73erejgps8a"
+                },
+                {
+                  "episodeId": "From-S1-E2",
+                  "title": "From S1 E2",
+                  "description": "إكتشف لغز مدينة في وسط الولايات المتحدة الأمريكية تسجن كل من يدخلها. وبينما يكافح السكان للحفاظ على شعورهم بالطبيعية والبحث عن مخرج، يتعين عليهم أيضًا البقاء على قيد الحياة في مواجهة تهديدات الغابة المحيطة",
+                  "duration": "47.15 m",
+                  "image_url": "https://aflamix.com/images/2196.jpg",
+                  "video_url": "https://swishsrv.com/e/hhpxar7ldw4z"
+                }
+              ]
+            }
+          ]
         }
       ]
-    },
-    {
-      "cate": "Action",
+       "cate": "Crime",
       "series": [
         {
           "image_url": "https://aflamix.com/images/2234.jpg",
@@ -118,11 +153,9 @@
               ]
             }
           ]
-        }
-      ]
-    },
+           "categories": [
     {
-      "cate": "Crime",
+      "cate": "Horror",
       "series": [
         {
           "image_url": "https://aflamix.com/images/2234.jpg",
@@ -156,43 +189,6 @@
                   "duration": "1 02 hr",
                   "image_url": "https://aflamix.com/images/2234.jpg",
                   "video_url": "https://swishsrv.com/e/b6lay8uqw9ur"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "image_url": "https://aflamix.com/images/2196.jpg",
-          "title": "From",
-          "release_year": 2022,
-          "seasonNumbers": 3,
-          "rating": "7.8",
-          "seasons": [
-            {
-              "id": "From-1",
-              "title": "From S1",
-              "release_year": 2022,
-              "description": "إكتشف لغز مدينة في وسط الولايات المتحدة الأمريكية تسجن كل من يدخلها. وبينما يكافح السكان للحفاظ على شعورهم بالطبيعية والبحث عن مخرج، يتعين عليهم أيضًا البقاء على قيد الحياة في مواجهة تهديدات الغابة المحيطة",
-              "image_url": "https://aflamix.com/images/2196.jpg",
-              "rating": "7.8",
-              "ThisSeasonNumIs": "S1",
-              "EpisodesNumsInThisSeasonIs": 10,
-              "episodes": [
-                {
-                  "episodeId": "From-S1-E1",
-                  "title": "From S1 E1",
-                  "description": "إكتشف لغز مدينة في وسط الولايات المتحدة الأمريكية تسجن كل من يدخلها. وبينما يكافح السكان للحفاظ على شعورهم بالطبيعية والبحث عن مخرج، يتعين عليهم أيضًا البقاء على قيد الحياة في مواجهة تهديدات الغابة المحيطة",
-                  "duration": "50.14 m",
-                  "image_url": "https://aflamix.com/images/2196.jpg",
-                  "video_url": "https://swishsrv.com/e/t73erejgps8a"
-                },
-                {
-                  "episodeId": "From-S1-E2",
-                  "title": "From S1 E2",
-                  "description": "إكتشف لغز مدينة في وسط الولايات المتحدة الأمريكية تسجن كل من يدخلها. وبينما يكافح السكان للحفاظ على شعورهم بالطبيعية والبحث عن مخرج، يتعين عليهم أيضًا البقاء على قيد الحياة في مواجهة تهديدات الغابة المحيطة",
-                  "duration": "47.15 m",
-                  "image_url": "https://aflamix.com/images/2196.jpg",
-                  "video_url": "https://swishsrv.com/e/hhpxar7ldw4z"
                 }
               ]
             }
