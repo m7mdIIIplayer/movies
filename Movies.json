@@ -5,7 +5,8 @@
         "image_url": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "video_url": "https://swishsrv.com/e/k12tb4b7lic3",
         "download_url": "",
-        "cate": "Fantasy"
+        "cate": "Fantasy",
+        "Rate": "8.3"
     },
     {
         "title": "The Lord of the Rings: The Two Towers 2002",
@@ -22,7 +23,8 @@
         "image_url": "https://m.media-amazon.com/images/M/MV5BMGI4NDQzNGQtNDk4NS00Y2EwLTk3MzktMzVmMDg1YzI0YmUxXkEyXkFqcGc@._V1_.jpg",
         "video_url": "https://swishsrv.com/e/1eb0slxnzju4",
         "download_url": "",
-        "cate": "Drama"
+        "cate": "Drama",
+        "Rate": "10"
     },
     {
         "title": "Home Alone 5 : The Holiday Heist 2012",
