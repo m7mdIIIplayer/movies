@@ -6,7 +6,7 @@
       "releaseYear": 2013,
       "totalSeasons": 4,
       "rating": "9.1",
-      "imageUrl": "https://example.com/aot.jpg",
+      "imageUrl": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/b5621ff1277ed6ad1006b0c6f14900bb.jpg",
       "seasons": [
         {
           "seasonId": "attack-on-titan-s1",
@@ -21,7 +21,7 @@
             {
               "episodeId": "attack-on-titan-s1-e1",
               "episodeTitle": "To You, in 2000 Years: The Fall of Shiganshina",
-              "description": "Eren Yeager's life changes forever as Titans breach the wall.",
+              "description": "Eren Yeager's life chan ges forever as Titans breach the wall.",
               "duration": "24 min",
               "imageUrl": "https://example.com/aot-e1.jpg",
               "videoUrl": "https://example.com/aot-e1.mp4"
@@ -64,7 +64,7 @@
       "releaseYear": 2019,
       "totalSeasons": 3,
       "rating": "8.9",
-      "imageUrl": "https://example.com/demonslayer.jpg",
+      "imageUrl": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/13839ea2b48b0323417b23813a090c93.jpg",
       "seasons": [
         {
           "seasonId": "demon-slayer-s1",
