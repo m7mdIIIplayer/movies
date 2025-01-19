@@ -1,0 +1,92 @@
+{
+  "animeSeries": [
+    {
+      "animeId": "anime1", 
+      "animeTitle": "Attack on Titan",
+      "releaseYear": 2013,
+      "totalSeasons": 4,
+      "rating": "9.1",
+      "imageUrl": "https://example.com/aot.jpg",
+      "seasons": [
+        {
+          "seasonId": "attack-on-titan-s1",
+          "seasonTitle": "Attack on Titan S1",
+          "releaseYear": 2013,
+          "seasonNumber": 1,
+          "totalEpisodes": 25,
+          "description": "The story of humanity's struggle against Titans begins.",
+          "imageUrl": "https://example.com/aot-s1.jpg",
+          "rating": "9.1",
+          "episodes": [
+            {
+              "episodeId": "attack-on-titan-s1-e1",
+              "episodeTitle": "To You, in 2000 Years: The Fall of Shiganshina",
+              "description": "Eren Yeager's life changes forever as Titans breach the wall.",
+              "duration": "24 min",
+              "imageUrl": "https://example.com/aot-e1.jpg",
+              "videoUrl": "https://example.com/aot-e1.mp4"
+            },
+            {
+              "episodeId": "attack-on-titan-s1-e2",
+              "episodeTitle": "That Day: The Fall of Shiganshina, Part 2",
+              "description": "The Titans push further, and humanity fights to survive.",
+              "duration": "24 min",
+              "imageUrl": "https://example.com/aot-e2.jpg",
+              "videoUrl": "https://example.com/aot-e2.mp4"
+            }
+          ]
+        },
+        {
+          "seasonId": "attack-on-titan-s2",
+          "seasonTitle": "Attack on Titan S2",
+          "releaseYear": 2017,
+          "seasonNumber": 2,
+          "totalEpisodes": 12,
+          "description": "Secrets of the Titans start to unfold.",
+          "imageUrl": "https://example.com/aot-s2.jpg",
+          "rating": "9.2",
+          "episodes": [
+            {
+              "episodeId": "attack-on-titan-s2-e1",
+              "episodeTitle": "Beast Titan",
+              "description": "The Scouts discover new dangers beyond the walls.",
+              "duration": "24 min",
+              "imageUrl": "https://example.com/aot-s2-e1.jpg",
+              "videoUrl": "https://example.com/aot-s2-e1.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "animeId": "anime2",
+      "animeTitle": "Demon Slayer",
+      "releaseYear": 2019,
+      "totalSeasons": 3,
+      "rating": "8.9",
+      "imageUrl": "https://example.com/demonslayer.jpg",
+      "seasons": [
+        {
+          "seasonId": "demon-slayer-s1",
+          "seasonTitle": "Demon Slayer S1",
+          "releaseYear": 2019,
+          "seasonNumber": 1,
+          "totalEpisodes": 26,
+          "description": "Tanjiro embarks on a journey to save his sister.",
+          "imageUrl": "https://example.com/ds-s1.jpg",
+          "rating": "8.9",
+          "episodes": [
+            {
+              "episodeId": "demon-slayer-s1-e1",
+              "episodeTitle": "Cruelty",
+              "description": "Tanjiro's family is attacked by demons.",
+              "duration": "24 min",
+              "imageUrl": "https://example.com/ds-s1-e1.jpg",
+              "videoUrl": "https://example.com/ds-s1-e1.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
