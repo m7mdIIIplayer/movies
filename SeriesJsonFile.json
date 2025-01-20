@@ -2,13 +2,13 @@
   "categories": [
     {
       "cate": "Fantasy",
-      "TrendNowSeries": "True",
       "series": [
         {
           "image_url": "https://aflamix.com/images/2234.jpg",
           "title": "Life Is Life",
           "release_year": 2021,
           "seasonNumbers": 2,
+          "TrendNowSeries": "True",
           "rating": "8",
           "seasons": [
             {
@@ -45,13 +45,13 @@
     },
     {
       "cate": "Horror",
-      "TrendNowSeries": "True",
       "series": [
         {
           "image_url": "https://aflamix.com/images/2234.jpg",
           "title": "Squid Game",
           "release_year": 2021,
           "seasonNumbers": 2,
+          "TrendNowSeries": "True",
           "rating": "8",
           "seasons": [
             {
@@ -88,13 +88,13 @@
     },
     {
       "cate": "Fantasy",
-      "TrendNowSeries": "True",
       "series": [
         {
           "image_url": "https://aflamix.com/images/2234.jpg",
           "title": "Squid Game",
           "release_year": 2021,
           "seasonNumbers": 2,
+          "TrendNowSeries": "True",
           "rating": "8",
           "seasons": [
             {
