@@ -1,127 +1,127 @@
 {
   "categories": [
     {
-      "cate": "Fantasy",
-      "TrendNowSeries": "True",
-      "series": [
-        {
-          "image_url": "https://resizing.flixster.com/shn-5oNS_mCn6kj_xIzhRgBmpTo=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMTU4MjM5NDItNGQ1Yi00NTJkLTgxMTgtOTJmY2Q3ZTVhYWNmLnBuZw==",
-          "title": "Silo",
-          "release_year": 2023,
-          "seasonNumbers": 2,
-          "rating": "8.1",
-          "seasons": [
-            {
-              "id": "Silo-1",
-              "title": "Silo S1",
-              "release_year": 2023,
-              "description": "يعيش الرجال والنساء في صومعة عملاقة تحت الأرض مع العديد من القواعد التي يعتقدون أنها موجودة لحمايتهم من العالم السام والمدمر على السطح.",
-              "image_url": "https://resizing.flixster.com/shn-5oNS_mCn6kj_xIzhRgBmpTo=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMTU4MjM5NDItNGQ1Yi00NTJkLTgxMTgtOTJmY2Q3ZTVhYWNmLnBuZw==",
-              "rating": "8.1",
-              "ThisSeasonNumIs": "S1",
-              "EpisodesNumsInThisSeasonIs": 10,
-              "episodes": [
-                {
-                  "episodeId": "Silo-S1-E1",
-                  "title": "Silo S1 E1",
-                  "description": "يعيش الرجال والنساء في صومعة عملاقة تحت الأرض مع العديد من القواعد التي يعتقدون أنها موجودة لحمايتهم من العالم السام والمدمر على السطح.",
-                  "duration": "59.23 m",
-                  "image_url": "https://resizing.flixster.com/shn-5oNS_mCn6kj_xIzhRgBmpTo=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMTU4MjM5NDItNGQ1Yi00NTJkLTgxMTgtOTJmY2Q3ZTVhYWNmLnBuZw==",
-                  "video_url": "https://swishsrv.com/e/686c2jxfx2sv"
-                },
-                {
-                  "episodeId": "Silo-S1-E2",
-                  "title": "Silo S1 E2",
-                  "description": "يعيش الرجال والنساء في صومعة عملاقة تحت الأرض مع العديد من القواعد التي يعتقدون أنها موجودة لحمايتهم من العالم السام والمدمر على السطح.",
-                  "duration": "62 m",
-                  "image_url": "https://resizing.flixster.com/shn-5oNS_mCn6kj_xIzhRgBmpTo=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMTU4MjM5NDItNGQ1Yi00NTJkLTgxMTgtOTJmY2Q3ZTVhYWNmLnBuZw==",
-                  "video_url": "https://swishsrv.com/e/t7790xyvgks7"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "cate": "Action",
-      "TrendNowSeries": "True",
-      "series": [
-        {
-          "image_url": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/gotposterbig.png",
-          "title": "game of thrones",
-          "release_year": 2011,
-          "seasonNumbers": 8,
-          "rating": "10",
-          "seasons": [
-            {
-              "id": "game-of-thrones-1",
-              "title": "Game Of Thrones S1",
-              "release_year": 2011,
-              "description": "سبع عائلات نبيلة تتصارع من أجل السيطرة على أرض ويستروس الخرافية باستخدام الجيوش والمكائد السياسية والجنسية",
-              "image_url": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/gotposterbig.png",
-              "rating": "9.2",
-              "ThisSeasonNumIs": "S1",
-              "EpisodesNumsInThisSeasonIs": 10,
-              "episodes": [
-                {
-                  "episodeId": "game-of-thrones-S1-E1",
-                  "title": "Game Of Thrones S1 E1",
-                  "description": "سبع عائلات نبيلة تتصارع من أجل السيطرة على أرض ويستروس الخرافية باستخدام الجيوش والمكائد السياسية والجنسية",
-                  "duration": "59.42 m",
-                  "image_url": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/gotposterbig.png",
-                  "video_url": "https://playerwish.com/e/78grpdxvy829"
-                },
-                {
-                  "episodeId": "game-of-thrones-S1-E2",
-                  "title": "Game Of Thrones S1 E2",
-                  "description": "سبع عائلات نبيلة تتصارع من أجل السيطرة على أرض ويستروس الخرافية باستخدام الجيوش والمكائد السياسية والجنسية",
-                  "duration": "42 m",
-                  "image_url": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/gotposterbig.png",
-                  "video_url": "https://swishsrv.com/e/mrkymemeu23e"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "cate": "Drama",
       "TrendNowSeries": "True",
       "series": [
         {
-          "image_url": "https://m.media-amazon.com/images/M/MV5BY2ExYWFjMzYtOWQyOS00Mjc2LThlMWMtNGM0YzEyZmEyZWQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-          "title": "1923",
-          "release_year": 2022,
-          "seasonNumbers": 1,
-          "rating": "9",
+          "image_url": "https://m.media-amazon.com/images/M/MV5BMTYxMDA3Mzg5NV5BMl5BanBnXkFtZTgwNDIxOTcwMDI@._V1_.jpg",
+          "title": "فتاتان مفلستان",
+          "release_year": 2011,
+          "seasonNumbers": 6,
+          "rating": "6.7",
           "seasons": [
             {
-              "id": "1923-1",
-              "title": "1923 S1",
-              "release_year": 2022,
-              "description": "تواجه داتونز مجموعة جديدة من التحديات في أوائل القرن العشرين بما في ذلك صعود حظر التوسع الغربي والكساد العظيم",
-              "image_url": "https://m.media-amazon.com/images/M/MV5BY2ExYWFjMzYtOWQyOS00Mjc2LThlMWMtNGM0YzEyZmEyZWQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "rating": "8.1",
+              "id": "فتاتان-مفلستان-1",
+              "title": "فتاتان-مفلستان-S1",
+              "release_year": 2011,
+              "description": "تعمل ماكس بلاك وكارولين شانينج في مطعم كنادلتين، وحينما تنشأ صداقة غير متوقعة بينهما وتتوطد العلاقة، سرعان ما يحلم الثنائي بإنشاء مشروعهما الخاص بهما وتكوين ثروة.",
+              "image_url": "https://m.media-amazon.com/images/M/MV5BMTYxMDA3Mzg5NV5BMl5BanBnXkFtZTgwNDIxOTcwMDI@._V1_.jpg",
+              "rating": "6",
+              "ThisSeasonNumIs": "S1",
+              "EpisodesNumsInThisSeasonIs": 24,
+              "episodes": [
+                {
+                  "episodeId": "فتاتان-مفلستان-S1-E1",
+                  "title": "فتاتان مفلستان S1 E1",
+                  "description": "تعمل ماكس بلاك وكارولين شانينج في مطعم كنادلتين، وحينما تنشأ صداقة غير متوقعة بينهما وتتوطد العلاقة، سرعان ما يحلم الثنائي بإنشاء مشروعهما الخاص بهما وتكوين ثروة.",
+                  "duration": "59.23 m",
+                  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYxMDA3Mzg5NV5BMl5BanBnXkFtZTgwNDIxOTcwMDI@._V1_.jpg",
+                  "video_url": "https://nikaplayerr.com/embed/nfpocv2y9unu"
+                },
+                {
+                  "episodeId": "فتاتان-مفلستان-S1-E2",
+                  "title": "فتاتان مفلستان S1 E2",
+                  "description": "تعمل ماكس بلاك وكارولين شانينج في مطعم كنادلتين، وحينما تنشأ صداقة غير متوقعة بينهما وتتوطد العلاقة، سرعان ما يحلم الثنائي بإنشاء مشروعهما الخاص بهما وتكوين ثروة.",
+                  "duration": "62 m",
+                  "image_url": "https://m.media-amazon.com/images/M/MV5BMTYxMDA3Mzg5NV5BMl5BanBnXkFtZTgwNDIxOTcwMDI@._V1_.jpg",
+                  "video_url": "https://nikaplayerr.com/embed/918l66t17css"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cate": "Thriller",
+      "TrendNowSeries": "True",
+      "series": [
+        {
+          "image_url": "https://m.media-amazon.com/images/M/MV5BNjFkZTBlYjgtMDA2OS00YjI2LWFiNjMtNWIxZTljYTEzMjRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "title": "الدبلوماسية",
+          "release_year": 2023,
+          "seasonNumbers": 2,
+          "rating": "8",
+          "seasons": [
+            {
+              "id": "الدبلوماسية-1",
+              "title": "الدبلوماسية S1",
+              "release_year": 2011,
+              "description": "في خضم أزمة دولية، تتولى كيت وايلر، الدبلوماسية المحترفة، وظيفة رفيعة المستوى لا تناسبها، مما يؤدي إلى عواقب وخيمة على زواجها ومستقبلها السياسي.",
+              "image_url": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/gotposterbig.png",
+              "rating": "8",
               "ThisSeasonNumIs": "S1",
               "EpisodesNumsInThisSeasonIs": 8,
               "episodes": [
                 {
-                  "episodeId": "1923-S1-E1",
-                  "title": "1923 S1 E1",
-                  "description": "تواجه داتونز مجموعة جديدة من التحديات في أوائل القرن العشرين بما في ذلك صعود حظر التوسع الغربي والكساد العظيم",
-                  "duration": "50 m",
-                  "image_url": "https://m.media-amazon.com/images/M/MV5BY2ExYWFjMzYtOWQyOS00Mjc2LThlMWMtNGM0YzEyZmEyZWQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                  "video_url": "https://nikaplayerr.com/embed/qfyfquvtoryw"
+                  "episodeId": "الدبلوماسية-S1-E1",
+                  "title": "الدبلوماسية S1 E1",
+                  "description": "في خضم أزمة دولية، تتولى كيت وايلر، الدبلوماسية المحترفة، وظيفة رفيعة المستوى لا تناسبها، مما يؤدي إلى عواقب وخيمة على زواجها ومستقبلها السياسي.",
+                  "duration": "59.42 m",
+                  "image_url": "https://m.media-amazon.com/images/M/MV5BNjFkZTBlYjgtMDA2OS00YjI2LWFiNjMtNWIxZTljYTEzMjRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                  "video_url": "https://swishsrv.com/e/7f00ijogm5ja"
                 },
                 {
-                  "episodeId": "1923-S1-E2",
-                  "title": "1923 S1 E2",
-                  "description": "تواجه داتونز مجموعة جديدة من التحديات في أوائل القرن العشرين بما في ذلك صعود حظر التوسع الغربي والكساد العظيم",
+                  "episodeId": "الدبلوماسية-S1-E2",
+                  "title": "الدبلوماسية S1 E2",
+                  "description": "في خضم أزمة دولية، تتولى كيت وايلر، الدبلوماسية المحترفة، وظيفة رفيعة المستوى لا تناسبها، مما يؤدي إلى عواقب وخيمة على زواجها ومستقبلها السياسي.",
+                  "duration": "42 m",
+                  "image_url": "https://m.media-amazon.com/images/M/MV5BNjFkZTBlYjgtMDA2OS00YjI2LWFiNjMtNWIxZTljYTEzMjRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                  "video_url": "https://swishsrv.com/e/hghnmvaa135l"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cate": "Fantasy",
+      "TrendNowSeries": "True",
+      "series": [
+        {
+          "image_url": "https://episodehive.com/image/w5u1PqBYfDyfrlkxADTA38jYG3I.jpg",
+          "title": "12 قردة",
+          "release_year": 2016,
+          "seasonNumbers": 4,
+          "rating": "7.4",
+          "seasons": [
+            {
+              "id": "12-قردة-1",
+              "title": "12 قردة S1",
+              "release_year": 2022,
+              "description": "البشر صنعو فيرس مدمر و منظمة سرية خطيرة قامت بنشر هذا الفيرس مما ادى الى تدمير البشرية و موت الاغلبية و فى المستقبل البعيد يكتشفو ان هناك امل لانقاذ العالم عن طريق ارسال مسجون من المستقبل الى الماضى باستخدام جهاز السفر عبر الزمن مما يتيح وقت محدود للمسجون لجمع معلومات عن الفيرس و محاولة منع انتشاره و تدميره و يواجه هناك المنظمة السرية و الكثير من التحديات و التغييرات غير المتوقعة",
+              "image_url": "https://episodehive.com/image/w5u1PqBYfDyfrlkxADTA38jYG3I.jpg",
+              "rating": "7.4",
+              "ThisSeasonNumIs": "S1",
+              "EpisodesNumsInThisSeasonIs": 13,
+              "episodes": [
+                {
+                  "episodeId": "12-قردة-S1-E1",
+                  "title": "12 قردة S1 E1",
+                  "description": "البشر صنعو فيرس مدمر و منظمة سرية خطيرة قامت بنشر هذا الفيرس مما ادى الى تدمير البشرية و موت الاغلبية و فى المستقبل البعيد يكتشفو ان هناك امل لانقاذ العالم عن طريق ارسال مسجون من المستقبل الى الماضى باستخدام جهاز السفر عبر الزمن مما يتيح وقت محدود للمسجون لجمع معلومات عن الفيرس و محاولة منع انتشاره و تدميره و يواجه هناك المنظمة السرية و الكثير من التحديات و التغييرات غير المتوقعة",
+                  "duration": "50 m",
+                  "image_url": "https://episodehive.com/image/w5u1PqBYfDyfrlkxADTA38jYG3I.jpg",
+                  "video_url": "https://playerwish.com/e/x37xl5pojzbk"
+                },
+                {
+                  "episodeId": "12-قردة-S1-E2",
+                  "title": "12 قردة S1 E2",
+                  "description": "البشر صنعو فيرس مدمر و منظمة سرية خطيرة قامت بنشر هذا الفيرس مما ادى الى تدمير البشرية و موت الاغلبية و فى المستقبل البعيد يكتشفو ان هناك امل لانقاذ العالم عن طريق ارسال مسجون من المستقبل الى الماضى باستخدام جهاز السفر عبر الزمن مما يتيح وقت محدود للمسجون لجمع معلومات عن الفيرس و محاولة منع انتشاره و تدميره و يواجه هناك المنظمة السرية و الكثير من التحديات و التغييرات غير المتوقعة",
                   "duration": "49 m",
-                  "image_url": "https://m.media-amazon.com/images/M/MV5BY2ExYWFjMzYtOWQyOS00Mjc2LThlMWMtNGM0YzEyZmEyZWQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                  "video_url": "https://nikaplayerr.com/embed/sdnu1quf0iem"
+                  "image_url": "https://episodehive.com/image/w5u1PqBYfDyfrlkxADTA38jYG3I.jpg",
+                  "video_url": "https://playerwish.com/e/dt8ks8o9r625"
                 }
               ]
             }
