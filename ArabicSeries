@@ -1,0 +1,133 @@
+{
+  "categories": [
+    {
+      "cate": "Fantasy",
+      "TrendNowSeries": "True",
+      "series": [
+        {
+          "image_url": "https://resizing.flixster.com/shn-5oNS_mCn6kj_xIzhRgBmpTo=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMTU4MjM5NDItNGQ1Yi00NTJkLTgxMTgtOTJmY2Q3ZTVhYWNmLnBuZw==",
+          "title": "Silo",
+          "release_year": 2023,
+          "seasonNumbers": 2,
+          "rating": "8.1",
+          "seasons": [
+            {
+              "id": "Silo-1",
+              "title": "Silo S1",
+              "release_year": 2023,
+              "description": "يعيش الرجال والنساء في صومعة عملاقة تحت الأرض مع العديد من القواعد التي يعتقدون أنها موجودة لحمايتهم من العالم السام والمدمر على السطح.",
+              "image_url": "https://resizing.flixster.com/shn-5oNS_mCn6kj_xIzhRgBmpTo=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMTU4MjM5NDItNGQ1Yi00NTJkLTgxMTgtOTJmY2Q3ZTVhYWNmLnBuZw==",
+              "rating": "8.1",
+              "ThisSeasonNumIs": "S1",
+              "EpisodesNumsInThisSeasonIs": 10,
+              "episodes": [
+                {
+                  "episodeId": "Silo-S1-E1",
+                  "title": "Silo S1 E1",
+                  "description": "يعيش الرجال والنساء في صومعة عملاقة تحت الأرض مع العديد من القواعد التي يعتقدون أنها موجودة لحمايتهم من العالم السام والمدمر على السطح.",
+                  "duration": "59.23 m",
+                  "image_url": "https://resizing.flixster.com/shn-5oNS_mCn6kj_xIzhRgBmpTo=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMTU4MjM5NDItNGQ1Yi00NTJkLTgxMTgtOTJmY2Q3ZTVhYWNmLnBuZw==",
+                  "video_url": "https://swishsrv.com/e/686c2jxfx2sv"
+                },
+                {
+                  "episodeId": "Silo-S1-E2",
+                  "title": "Silo S1 E2",
+                  "description": "يعيش الرجال والنساء في صومعة عملاقة تحت الأرض مع العديد من القواعد التي يعتقدون أنها موجودة لحمايتهم من العالم السام والمدمر على السطح.",
+                  "duration": "62 m",
+                  "image_url": "https://resizing.flixster.com/shn-5oNS_mCn6kj_xIzhRgBmpTo=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMTU4MjM5NDItNGQ1Yi00NTJkLTgxMTgtOTJmY2Q3ZTVhYWNmLnBuZw==",
+                  "video_url": "https://swishsrv.com/e/t7790xyvgks7"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cate": "Action",
+      "TrendNowSeries": "True",
+      "series": [
+        {
+          "image_url": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/gotposterbig.png",
+          "title": "game of thrones",
+          "release_year": 2011,
+          "seasonNumbers": 8,
+          "rating": "10",
+          "seasons": [
+            {
+              "id": "game-of-thrones-1",
+              "title": "Game Of Thrones S1",
+              "release_year": 2011,
+              "description": "سبع عائلات نبيلة تتصارع من أجل السيطرة على أرض ويستروس الخرافية باستخدام الجيوش والمكائد السياسية والجنسية",
+              "image_url": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/gotposterbig.png",
+              "rating": "9.2",
+              "ThisSeasonNumIs": "S1",
+              "EpisodesNumsInThisSeasonIs": 10,
+              "episodes": [
+                {
+                  "episodeId": "game-of-thrones-S1-E1",
+                  "title": "Game Of Thrones S1 E1",
+                  "description": "سبع عائلات نبيلة تتصارع من أجل السيطرة على أرض ويستروس الخرافية باستخدام الجيوش والمكائد السياسية والجنسية",
+                  "duration": "59.42 m",
+                  "image_url": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/gotposterbig.png",
+                  "video_url": "https://playerwish.com/e/78grpdxvy829"
+                },
+                {
+                  "episodeId": "game-of-thrones-S1-E2",
+                  "title": "Game Of Thrones S1 E2",
+                  "description": "سبع عائلات نبيلة تتصارع من أجل السيطرة على أرض ويستروس الخرافية باستخدام الجيوش والمكائد السياسية والجنسية",
+                  "duration": "42 m",
+                  "image_url": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/gotposterbig.png",
+                  "video_url": "https://swishsrv.com/e/mrkymemeu23e"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cate": "Drama",
+      "TrendNowSeries": "True",
+      "series": [
+        {
+          "image_url": "https://m.media-amazon.com/images/M/MV5BY2ExYWFjMzYtOWQyOS00Mjc2LThlMWMtNGM0YzEyZmEyZWQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "title": "1923",
+          "release_year": 2022,
+          "seasonNumbers": 1,
+          "rating": "9",
+          "seasons": [
+            {
+              "id": "1923-1",
+              "title": "1923 S1",
+              "release_year": 2022,
+              "description": "تواجه داتونز مجموعة جديدة من التحديات في أوائل القرن العشرين بما في ذلك صعود حظر التوسع الغربي والكساد العظيم",
+              "image_url": "https://m.media-amazon.com/images/M/MV5BY2ExYWFjMzYtOWQyOS00Mjc2LThlMWMtNGM0YzEyZmEyZWQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "rating": "8.1",
+              "ThisSeasonNumIs": "S1",
+              "EpisodesNumsInThisSeasonIs": 8,
+              "episodes": [
+                {
+                  "episodeId": "1923-S1-E1",
+                  "title": "1923 S1 E1",
+                  "description": "تواجه داتونز مجموعة جديدة من التحديات في أوائل القرن العشرين بما في ذلك صعود حظر التوسع الغربي والكساد العظيم",
+                  "duration": "50 m",
+                  "image_url": "https://m.media-amazon.com/images/M/MV5BY2ExYWFjMzYtOWQyOS00Mjc2LThlMWMtNGM0YzEyZmEyZWQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                  "video_url": "https://nikaplayerr.com/embed/qfyfquvtoryw"
+                },
+                {
+                  "episodeId": "1923-S1-E2",
+                  "title": "1923 S1 E2",
+                  "description": "تواجه داتونز مجموعة جديدة من التحديات في أوائل القرن العشرين بما في ذلك صعود حظر التوسع الغربي والكساد العظيم",
+                  "duration": "49 m",
+                  "image_url": "https://m.media-amazon.com/images/M/MV5BY2ExYWFjMzYtOWQyOS00Mjc2LThlMWMtNGM0YzEyZmEyZWQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                  "video_url": "https://nikaplayerr.com/embed/sdnu1quf0iem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
