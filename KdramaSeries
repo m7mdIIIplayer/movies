@@ -3,7 +3,7 @@
     {
       "cate": "Fantasy",
       "TrendNowSeries": "True",
-      "DadFolder":"SeriesFolder",
+      "DadFolder":"KdramaFolder",
       "SonFolder":"SectionSeries",
       "series": [
         {
@@ -48,7 +48,7 @@
     {
       "cate": "Action",
       "TrendNowSeries": "True",
-      "DadFolder":"SeriesFolder",
+      "DadFolder":"KdramaFolder",
       "SonFolder":"SectionSeries",
       "series": [
         {
@@ -93,7 +93,7 @@
     {
       "cate": "Drama",
       "TrendNowSeries": "True",
-      "DadFolder":"SeriesFolder",
+      "DadFolder":"KdramaFolder",
       "SonFolder":"SectionSeries",
       "series": [
         {
