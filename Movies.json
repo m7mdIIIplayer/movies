@@ -19,6 +19,7 @@
         "download_url": "",
         "rating":"10",
         "year":"2020",
+        "DadFolder":"MoviesFolder",
         "TrendNow":"True",
         "cate": "Action"
     },
