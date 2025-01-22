@@ -3,6 +3,8 @@
     {
       "cate": "Fantasy",
       "TrendNowSeries": "True",
+      "DadFolder":"SeriesFolder",
+      "SonFolder":"SectionSeries",
       "series": [
         {
           "image_url": "https://resizing.flixster.com/shn-5oNS_mCn6kj_xIzhRgBmpTo=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMTU4MjM5NDItNGQ1Yi00NTJkLTgxMTgtOTJmY2Q3ZTVhYWNmLnBuZw==",
@@ -46,6 +48,8 @@
     {
       "cate": "Action",
       "TrendNowSeries": "True",
+      "DadFolder":"SeriesFolder",
+      "SonFolder":"SectionSeries",
       "series": [
         {
           "image_url": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/gotposterbig.png",
@@ -89,6 +93,8 @@
     {
       "cate": "Drama",
       "TrendNowSeries": "True",
+      "DadFolder":"SeriesFolder",
+      "SonFolder":"SectionSeries",
       "series": [
         {
           "image_url": "https://m.media-amazon.com/images/M/MV5BY2ExYWFjMzYtOWQyOS00Mjc2LThlMWMtNGM0YzEyZmEyZWQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
