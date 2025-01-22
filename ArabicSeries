@@ -2,6 +2,8 @@
   "categories": [
     {
       "cate": "Drama",
+      "DadFolder":"ArabicFolder",
+      "SonFolder":"SectionSeries",
       "TrendNowSeries": "True",
       "series": [
         {
@@ -45,6 +47,8 @@
     },
     {
       "cate": "Thriller",
+      "DadFolder":"ArabicFolder",
+      "SonFolder":"SectionSeries",
       "TrendNowSeries": "True",
       "series": [
         {
@@ -88,6 +92,8 @@
     },
     {
       "cate": "Fantasy",
+      "DadFolder":"ArabicFolder",
+      "SonFolder":"SectionSeries",
       "TrendNowSeries": "True",
       "series": [
         {
