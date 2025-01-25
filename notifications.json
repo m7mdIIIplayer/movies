@@ -1,5 +1,5 @@
 [
     {"text": "hello afaf how are you :)"},
-    {"text": "this is a test :)"},
-    {"text": "لازم تغيري الثيم لانو سيء ! :)"}
+    {"text1": "this is a test :)"},
+    {"text2": "لازم تغيري الثيم لانو سيء ! :)"}
 ]
