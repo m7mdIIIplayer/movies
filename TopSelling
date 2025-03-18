@@ -1,18 +1,37 @@
 [
 {
-        "ProductTitle": "Nutrition Product 1",
-        "ProductDescraption": "لبشرة نظرة اكثر",
-        "ProductImageUrl": "https://aflamix.com/images/2222.jpg",
-        "Section": "ColdFever",
-        "Price": 9,
+        "ProductTitle": "Glycolic Acid 7% Brightening Solution 240ml",
+        "ProductDescraption": "The first step to choosing the right products for your skin is to determine your skin type, so you can get the ideal product that provides you with complete care.",
+        "ProductImageUrl": "https://lh7-us.googleusercontent.com/hOp9kKj3ErhoqMVebCnUFTcRkOf3RazoS8tVKOsUY95a3pKxM7nNV0cSnvvFj0HUwlJt4vw67EBltvHLwULR5UyUa1Qm_Y6oyBlIFv6NeG-2ByhJrJvdIoNKHVo_UB1JQ8QUc3rsfZFZ",
+        "Section": "Skincare",
+        "Price": 59,
         "rating": "5"
 
     },
-    {
-        "ProductTitle": "Nutrition Product 2",
-        "ProductDescraption": "لبشرة نظرة اكثر",
-        "ProductImageUrl": "https://aflamix.com/images/2222.jpg",
+{
+        "ProductTitle": "NOW Foods, Omega-3 Fish Oil, 1,000 mg, 180 EPA - 120 DHA, 200 Softgels",
+        "ProductDescraption": "The fish oil concentrate is manufactured under strict quality control standards. It is tested to be free of potentially harmful levels of contaminants such as PCB's, dioxins, mercury and other heavy metals.",
+        "ProductImageUrl": "https://lh7-us.googleusercontent.com/hOp9kKj3ErhoqMVebCnUFTcRkOf3RazoS8tVKOsUY95a3pKxM7nNV0cSnvvFj0HUwlJt4vw67EBltvHLwULR5UyUa1Qm_Y6oyBlIFv6NeG-2ByhJrJvdIoNKHVo_UB1JQ8QUc3rsfZFZ",
         "Section": "Nutrition",
+        "Price": 20,
+        "rating": "4.5"
+
+    },
+{
+        "ProductTitle": "Tyrvaya",
+        "ProductDescraption": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tar/tar00030/l/28.jpg.",
+        "ProductImageUrl": "https://lh7-us.googleusercontent.com/hOp9kKj3ErhoqMVebCnUFTcRkOf3RazoS8tVKOsUY95a3pKxM7nNV0cSnvvFj0HUwlJt4vw67EBltvHLwULR5UyUa1Qm_Y6oyBlIFv6NeG-2ByhJrJvdIoNKHVo_UB1JQ8QUc3rsfZFZ",
+        "Section": "Nutrition",
+        "Price": 20,
+        "rating": "4.5"
+
+    },
+
+    {
+        "ProductTitle": "PanOxyl Benzoyl Peroxide 10%",
+        "ProductDescraption": "Products must regulate the skin's sebum secretion process, to achieve the desired balance.",
+        "ProductImageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/now/now01652/v/68.jpg",
+        "Section": "Skincare",
         "Price": 90,
         "rating": "4.5"
     }
