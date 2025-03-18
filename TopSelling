@@ -4,7 +4,7 @@
         "ProductDescraption": "لبشرة نظرة اكثر",
         "ProductImageUrl": "https://aflamix.com/images/2222.jpg",
         "Section": "ColdFever",
-        "Price": "9$",
+        "Price": 9,
         "rating": "5"
 
     },
@@ -13,7 +13,7 @@
         "ProductDescraption": "لبشرة نظرة اكثر",
         "ProductImageUrl": "https://aflamix.com/images/2222.jpg",
         "Section": "Nutrition",
-        "Price": "90$",
+        "Price": 90,
         "rating": "4.5"
     }
 ]
