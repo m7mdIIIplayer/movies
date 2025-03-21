@@ -2,6 +2,7 @@
     {
         "DoctorName": "Dr. Ibrahim Issa",
         "BigTitle": "What supplements should I take daily?",
+        "DoctorSpecialty": "dermatologist",
         "DoctorDescription": "Lorem Ipsum Dolor Set Amit, Concitior Sadesping Eleter, Sadart Diam Nonomi Ermod Tempor Infidient.",
         "DoctorImageUrlClear": "https://i.cbc.ca/1.5476084.1728341173!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shutterstock-medium-file.jpg?im=Resize%3D780",
         "DoctorImageUrlWithColor": "https://www.shutterstock.com/image-vector/medical-vectors-seamless-pattern-600nw-129839402.jpg",
